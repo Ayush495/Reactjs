@@ -1,0 +1,9 @@
+.foo {
+   background-color: blue;
+  font-family: sans-serif;
+}
+
+.completed{
+	text-decoration: underline;
+	background-color: red;
+}
